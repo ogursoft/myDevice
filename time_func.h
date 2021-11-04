@@ -1,1 +1,1 @@
-#include time_func.cpp
+#include <time_func.cpp>
