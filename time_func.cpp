@@ -1,3 +1,5 @@
+#include <time.h>
+
 // Функция вывода uptime
 String uptime(unsigned long currentmillis)
 {
