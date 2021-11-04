@@ -1,3 +1,5 @@
+#include <DallasTemperature.h>
+
 // function to print a device address
 String printAddress(DeviceAddress deviceAddress)
 {
