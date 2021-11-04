@@ -1,1 +1,2 @@
-#include <ntp_func.cpp>
+time_t getNtpTime();
+void sendNTPpacket(IPAddress &address);
