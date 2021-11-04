@@ -1,1 +1,1 @@
-#include <time_func.cpp>
+time_t getNtpTime();
