@@ -1,4 +1,5 @@
 #include <time.h>
+#include <WString.h>
 
 // Функция вывода uptime
 String uptime(unsigned long currentmillis)
