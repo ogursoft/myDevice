@@ -1,3 +1,4 @@
+#include <OneWire.h>
 #include <DallasTemperature.h>
 
 // function to print a device address
