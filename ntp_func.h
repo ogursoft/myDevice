@@ -1,1 +1,1 @@
-#include ntp_func.cpp
+#include <ntp_func.cpp>
