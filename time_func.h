@@ -1,2 +1,1 @@
-time_t getNtpTime();
-void sendNTPpacket(IPAddress &address);
+String uptime(unsigned long currentmillis);
